@@ -44,7 +44,8 @@ Ao final deve se exibir uma mensagem:
 - "o {tipo} atacou usando {ataque}"
   ex: mago atacou usando magia
   guerreiro atacou usando espada
- 
+
+ ## Projeto Final
 ![](https://github.com/rafF1z-ft/DIO-Escrevendo-as-Classes-de-Um-Jogo/blob/main/printIndex.png)
  
 Bons estudos 😉

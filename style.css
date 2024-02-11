@@ -1,0 +1,33 @@
+body {
+    background: rgb(70, 142, 236);
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+header {
+    color: whitesmoke;
+    text-align: center;
+}
+
+section {
+    background: seashell;
+    border-radius: 10px;
+    padding: 15px;
+    width: 350px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+}
+
+fieldset {
+    background: rgb(184, 37, 37);
+    color: rgb(59, 52, 52);
+    border-radius: 10px;
+    border: 4px;
+    border-color: rgb(123, 170, 231);
+}
+
+#txtFinal {
+    font-size: 20px;
+}
